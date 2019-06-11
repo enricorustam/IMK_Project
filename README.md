@@ -1,2 +1,2 @@
 # IMK_Project
-basic web project
+basic web project_Human Computer Interaction
